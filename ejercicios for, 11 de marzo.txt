@@ -1,0 +1,44 @@
+#for i in range(5):
+#    print(i)
+
+#for i in range(1,5):
+ #   print(i)
+ 
+#for i in range(0, 20, 2):
+    #print(i)
+
+#for i in range(10,0,-1):
+ #   print(i)
+ 
+#for i in range(12):
+  #   print("URL")
+  
+#contador=0
+#buscar="a"
+ # for letra in "murcielagoabc123ulvsaaa":
+  #    if letra==buscar:
+ #     contador=contador+1
+  #    print("Se encontraron:", contador, "veces la letra,",buscar)
+  
+#suma=0
+#for i in range(1,4):
+ #    suma=suma+1
+ #print(suma)
+ 
+#for i in range(1,11):
+ #    print("5*", i,"=", 5*i)
+
+#contador=0
+#for i in range(1,50):
+ #   if i%3==0:
+  #      contador=contador+1
+#print("Los multiplos de 3 son:",contador)
+
+#for i in range(6,1,-1):
+ #   print("*"*i)
+ 
+tamano=5
+for i in range (tamano):
+    for j in range(tamano):
+       print("*", end="")
+    print("*")
